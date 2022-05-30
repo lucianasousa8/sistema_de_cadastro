@@ -2,7 +2,7 @@
 
 <status do projeto: Em andamento
 
-Para rodar ess projeto na sua maquina digite:
+Para rodar ess projeto na sua maquina digite:/>
 ```
 node app.js
 ```
